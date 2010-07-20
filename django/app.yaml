@@ -1,0 +1,10 @@
+application: robmao-app-01p
+version: django
+runtime: python
+api_version: 1
+
+handlers:
+
+- url: .*
+  script: bootstrap.py
+  
