@@ -1,4 +1,4 @@
-application: robmao-app-01p
+application: robmao-app-01
 version: django
 runtime: python
 api_version: 1
